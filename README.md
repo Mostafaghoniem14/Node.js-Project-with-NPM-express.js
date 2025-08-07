@@ -70,23 +70,17 @@ Used to showcase form handling and cookie logic in Express apps.
 
 ## 🔧 Setup Instructions
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the server:
+2. Start the server:
    ```bash
    node app.js
    ```
 
-4. Visit: `http://localhost:3000/`
+3. Visit: `http://localhost:3000/`
 
 ---
 
